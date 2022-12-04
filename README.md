@@ -23,6 +23,8 @@ This repository contains the count tables obtained after the processing of the a
 
 **count_table_ITS_rarefied.csv**: CSV table that contains the rarefied count table of the ASV obtained for the ITS region.
 
+**taxonomy_ITS.csv**: CSV table that contains the taxonomy annotation for the ASV obtained for the ITS region.
+
 **faprotax_counts.csv**: CSV table that contains the counts obtained using the FAPROTAX tool.
 
 **funguild_counts.csv**: CSV table that contains the counts obtained using the FunGuild tool.
