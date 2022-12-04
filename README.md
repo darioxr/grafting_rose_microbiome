@@ -27,4 +27,6 @@ This repository contains the count tables obtained after the processing of the a
 
 **funguild_counts.csv**: CSV table that contains the counts obtained using the FunGuild tool.
 
-**metadata.csv**: CSV table that contains the associated information to each sample used.
+**metadata_16s.csv**: CSV table that contains the associated information to each sample used.
+
+**metadata_ITS.csv**: CSV table that contains the associated information to each sample used.
